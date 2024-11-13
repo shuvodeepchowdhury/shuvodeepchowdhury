@@ -3,8 +3,8 @@
 </p>
 
 <span style="margin-right: 40px;">🌱 <b>MCA in Data Science</b></span>
-<span style="margin-right: 40px;">| 💻 <b>Passionate Software Developer</b></span>
-<span> | 🌍 <b>Data & Web Enthusiast</b></span>
+<span style="margin-right: 40px;">| 💻 <b>Data Science & Web Development </b></span>
+<span> | 🌍 <b>Passionate Software Developer</b></span>
 
 ---
 
