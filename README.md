@@ -1,5 +1,5 @@
-# <p align="center">
-  Hi there, I'm <b>Shuvodeep!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
+# <h3><p align="center">
+  Hi there, I'm <b>Shuvodeep!</b></h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
 </p>
 🌱 **MCA in Data Science** | 💻 **Passionate Software Developer** | 🌍 **Data & Web Enthusiast**  
 
