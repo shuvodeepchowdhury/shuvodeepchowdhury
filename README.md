@@ -60,5 +60,6 @@
 
 Thank you for visiting my profile! 😊
 <p align="center">
-  <img src="https://github.com/shuvodeepchowdhury.png?size=100&v=4" alt="GitHub Snake Eating Commits"/>
+  <img src="https://github.com/shuvodeepchowdhury.github-contribution-grid-snake.svg" alt="GitHub Snake Eating Commits"/>
 </p>
+
