@@ -2,9 +2,10 @@
   <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi 😊 Welcome to my profile , I am <b>Shuvodeep</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
 </p>
 
-<span style="margin-right: 40px;">🌱 <b>MCA in Data Science</b></span>
-<span style="margin-right: 40px;">| 💻 <b>Data Science & Web Development </b></span>
-<span> | 🌍 <b>Passionate Software Developer</b></span>
+<span style="margin-right: 40px; font-size: 1.5em;">🌱 <b>MCA in Data Science</b></span>
+<span style="margin-right: 40px; font-size: 1.5em;">| 💻 <b>Data Science & Web Development</b></span>
+<span style="font-size: 1.5em;"> | 🌍 <b>Passionate Software Developer</b></span>
+
 
 ---
 
