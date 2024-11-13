@@ -31,7 +31,7 @@
 
 ---
 
-## 💡 Projects
+## 💡 Recent Projects
 
 - **Tea Disease Detection**  
   A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/username/Tea-Disease-Detection)
