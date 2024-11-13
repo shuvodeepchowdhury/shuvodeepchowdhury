@@ -37,10 +37,10 @@
 ## 💡 Recent Projects
 
 - **Tea Disease Detection**  
-  A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/username/Tea-Disease-Detection)
+  A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/shuvodeepchowdhury/Tea-Disease-Detection-Application)
 
 - **Mushroom Classification**  
-  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/username/Mushroom-Classification)
+  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/shuvodeepchowdhury/Mushroom-Classification-using-Machine-Learning)
 
 ---
 
