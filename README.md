@@ -1,6 +1,5 @@
-# Hi there, I'm Shuvodeep! <p align="center">
+# Hi there, I'm Shuvodeep!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
-</p>
 
 🌱 **MCA in Data Science** | 💻 **Passionate Software Developer** | 🌍 **Data & Web Enthusiast**  
 
