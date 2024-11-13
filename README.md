@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
+</p>
+
 # Hi there, I'm Shuvodeep! 👋
 
 🌱 **MCA in Data Science** | 💻 **Passionate Software Developer** | 🌍 **Data & Web Enthusiast**  
