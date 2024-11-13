@@ -36,7 +36,7 @@
 
 ## 💡 Recent Projects
 
-- **Tea Leaf Disease Detection**  
+- **Tea Leaf Disease Detection Application**  
   A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/shuvodeepchowdhury/Tea-Sickness-Detection-Application)
 
 - **Mushroom Classification**  
