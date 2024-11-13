@@ -40,8 +40,7 @@
   A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/shuvodeepchowdhury/Tea-Sickness-Detection-Application))
 
 - **Mushroom Classification**  
-  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/shuvodeepchowdhury/Mushroom-Classification-using-Machine-Learning)
-
+  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning)
 ---
 
 ## 📫 Connect with Me
