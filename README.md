@@ -56,10 +56,7 @@
 
 ---
 
-⭐️ **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
+😁 **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
 
 Thank you for visiting my profile! 😊
-<p align="center">
-  <img src="https://github.com/shuvodeepchowdhury.github-contribution-grid-snake.svg" alt="GitHub Snake Eating Commits"/>
-</p>
 
