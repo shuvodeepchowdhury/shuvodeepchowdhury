@@ -1,5 +1,5 @@
-# <h3><p align="center">
-  Hi there, I'm <b>Shuvodeep!</b></h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
+<p align="center">
+  <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi there, I'm <b>Shuvodeep!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
 </p>
 🌱 **MCA in Data Science** | 💻 **Passionate Software Developer** | 🌍 **Data & Web Enthusiast**  
 
