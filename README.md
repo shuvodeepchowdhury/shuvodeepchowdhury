@@ -1,57 +1,45 @@
-# Hi there, I'm Shuvodeep! 👋
+# 👋 Hi there! I'm Shuvodeep Chowdhury 
 
-🌱 **MCA in Data Science** | 💻 **Passionate Software Developer** | 🌍 **Data & Web Enthusiast**  
-
----
-
-## 🔧 Tech Stack
-
-### 🌐 Web Development
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
-</div>
-
-### 📊 Data Science & Machine Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
+### 🌐 Web Development | 📊 Data Science | 🤖 Machine Learning 
 
 ---
 
-## 💡 Projects
-
-- **Tea Disease Detection**  
-  A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/username/Tea-Disease-Detection)
-
-- **Mushroom Classification**  
-  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/username/Mushroom-Classification)
-
----
-
-## 📫 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/shuvodeep-chowdhury">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shuvodeepallofficials@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+## 💻 Web Development Skills  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40"/>
+  <img src="https://img.icons8.com/officel/40/000000/node-js.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/express.png" alt="Express" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
+</p>
 
 ---
 
-⭐️ **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
+## 📊 Data Science & ML Skills
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" alt="Machine Learning" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="SQL" width="40"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-excel-data-analytics-flaticons-flat-flat-icons.png" alt="Excel" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/r-project.png" alt="R" width="40"/>
+</p>
 
-Thank you for visiting my profile! 😊
+---
+
+## ⚡️ About Me
+- 🎓 Pursuing MCA in Data Science
+- 🌱 Currently working on end-to-end MERN stack projects
+- 🌍 Exploring machine learning applications for real-world solutions
+
+---
+
+### 📫 Connect with Me!
+- [LinkedIn](https://www.linkedin.com/in/shuvodeep)
+- [GitHub](https://github.com/shuvodeep)
