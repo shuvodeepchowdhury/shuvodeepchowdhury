@@ -1,7 +1,10 @@
 <p align="center">
   <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi there, I'm <b>Shuvodeep!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
 </p>
-🌱 <b>MCA in Data Science</b>   |    💻 <b>Passionate Software Developer</b>   |   🌍 <b>Data & Web Enthusiast</b>  
+🌱 <b style="margin-right: 20px;">MCA in Data Science</b> | 
+💻 <b style="margin-right: 20px;">Passionate Software Developer</b> |  
+🌍 <b>Data & Web Enthusiast</b>
+ 
 
 ---
 
