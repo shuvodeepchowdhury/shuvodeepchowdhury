@@ -2,6 +2,7 @@
 <p align="center">
   <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi 😊, I am <b>Shuvodeep</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
 </p>
+<p>Welcome to my profile! I’m a passionate data science enthusiast and software developer, dedicated to transforming raw data into valuable insights and crafting innovative solutions that drive real-world impact</p>
 
 <span style="margin-right: 40px; font-size: 1.5em;">📚 <b>MCA in Data Science</b></span>
 <span style="margin-right: 40px; font-size: 1.5em;">| 💻 <b>Data Science & Web Development</b></span>
