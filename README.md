@@ -54,7 +54,7 @@
 ---
 
 😁 **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
-<h2 align="center">Hi there! 👋 I'm a Data Analyst and Developer</h2>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
