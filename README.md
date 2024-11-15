@@ -63,4 +63,3 @@
 <p
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)>
 
-why my footer is not working
