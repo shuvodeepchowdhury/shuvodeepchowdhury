@@ -1,3 +1,4 @@
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40)
 <p align="center">
   <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi 😊 Welcome to my profile , I am <b>Shuvodeep</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
 </p>
