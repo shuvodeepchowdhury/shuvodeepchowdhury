@@ -1,8 +1,8 @@
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40)
 <p align="center">
   <h1 style="font-size: 3em; color: #0077B5; font-family: 'Arial', sans-serif;">Hi 😊, I am <b>Shuvodeep</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/></h1>
-</p>
-<p><h4> I’m a passionate data science enthusiast and software developer, dedicated to transforming raw data into valuable insights and crafting innovative solutions that drive real-world impact</h4></p>
+<br></p>
+<p><h4> I am a passionate data science enthusiast and software developer, dedicated to transforming raw data into valuable insights and crafting innovative solutions that drive real-world impact</h4></p><br>
 
 <span style="margin-right: 40px; font-size: 1.5em;">📚 <b>MCA in Data Science</b></span>
 <span style="margin-right: 40px; font-size: 1.5em;">| 💻 <b>Data Science & Web Development</b></span>
@@ -60,4 +60,5 @@
   <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
 </p>
 <h2>Thank you for visiting my profile! 😊</h2><br>
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<p
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)>
