@@ -8,7 +8,6 @@
 <span style="margin-right: 40px; font-size: 1.5em;">| 💻 <b>Data Science & Web Development</b></span>
 <span style="font-size: 1.5em;"> | 🌍 <b>Passionate Software Developer</b></span>
 
-
 ---
 
 ## 🔧 Tech Stack
@@ -36,10 +35,24 @@
 
 ---
 
-[![Tea Leaf Disease Detection Application](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Tea-Leaf-DIsease-Detection-Application&theme=radical)](https://github.com/shuvodeepchowdhury/Tea-Leaf-DIsease-Detection-Application)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://github.com/shuvodeepchowdhury/Tea-Leaf-DIsease-Detection-Application">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Tea-Leaf-DIsease-Detection-Application&theme=radical" alt="Tea Leaf Disease Detection Application" />
+    </a>
+    <br />
+    <a href="https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Mushroom-Classification-Using-Machine-Learning&theme=radical" alt="Mushroom Classification Using Machine Learning" />
+    </a>
+  </div>
+  <div>
+    <p align="center">
+      <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
+    </p>
+  </div>
+</div>
 
-[![Mushroom Classification Using Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Mushroom-Classification-Using-Machine-Learning&theme=radical)](https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning)
-
+---
 
 ## 📫 Connect with Me
 <div align="center">
@@ -59,7 +72,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
 </p>
-<h2 align="center">Thank you for visiting my profile! 😊</h2><br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Wave" />
-</p>
+
+<h2>Thank you for visiting my profile! 😊</h2><br>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
