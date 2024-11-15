@@ -54,4 +54,5 @@
 😁 **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
 
 Thank you for visiting my profile! 😊
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
