@@ -35,7 +35,8 @@
 
 ---
 
-[![Tea Leaf Disease Detection Application](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=tea-disease-detection&theme=radical)](https://github.com/shuvodeepchowdhury/tea-disease-detection)
+[![Tea Leaf Disease Detection Application](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Tea-Leaf-DIsease-Detection-Application&theme=radical)](https://github.com/shuvodeepchowdhury/Tea-Leaf-DIsease-Detection-Application)
+
 [![Mushroom classification using Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=MediChat&theme=radical)](https://github.com/Subhamchowdhury31/MediChat.git)  
 
 
