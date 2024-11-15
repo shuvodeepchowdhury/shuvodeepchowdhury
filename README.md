@@ -53,6 +53,16 @@
 ---
 
 😁 **Fun Fact**: I love to explore new places and capture the essence of travel through my lens. 🌍📸
+<h2 align="center">Hi there! 👋 I'm a Data Analyst and Developer</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link.gif" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
+</p>
+
+<p align="center">
+  I analyze data, create insights, and develop applications to solve real-world problems. Let's make data-driven decisions together! 💻📊
+</p>
+
 
 Thank you for visiting my profile! 😊
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
