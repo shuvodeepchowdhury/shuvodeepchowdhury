@@ -35,14 +35,9 @@
 
 ---
 
-## 💡 Recent Projects
+[![Tea Leaf Disease Detection Application](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=password-manager&theme=radical)](https://github.com/Subhamchowdhury31/password-manager)  
+[![Mushroom classification using Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=MediChat&theme=radical)](https://github.com/Subhamchowdhury31/MediChat.git)  
 
-- **Tea Leaf Disease Detection Application**  
-  A machine learning web application using CNN to detect diseases in tea leaves. [Repo](https://github.com/shuvodeepchowdhury/Tea-Leaf-Disease-Detection-Application)
-
-- **Mushroom Classification using Machine Learning**  
-  Classifies mushrooms using Logistic Regression, Naive Bayes, and SVM with high accuracy. [Repo](https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning)
----
 
 ## 📫 Connect with Me
 <div align="center">
