@@ -35,9 +35,9 @@
 </div>
 
 ---
-<>
+<div>
 [![Tea Leaf Disease Detection Application](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Tea-Leaf-DIsease-Detection-Application&theme=radical)](https://github.com/shuvodeepchowdhury/Tea-Leaf-DIsease-Detection-Application)  
-[![Mushroom Classification Using Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Mushroom-Classification-Using-Machine-Learning&theme=radical)](https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning)</><img widdth=100% src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
+[![Mushroom Classification Using Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=shuvodeepchowdhury&repo=Mushroom-Classification-Using-Machine-Learning&theme=radical)](https://github.com/shuvodeepchowdhury/Mushroom-Classification-Using-Machine-Learning)</div><img widdth=100% src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
 
 
 ## 📫 Connect with Me
