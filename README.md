@@ -57,7 +57,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
+  <img widdth=100% src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b7611qmp33wf1r42fiwxq6q8vbd0ly5fhmxg4qudn49yc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="3D Data Analyst with Computer Screen and Developer Saying Hi" width="500" />
 </p>
 <h2 align="center">Thank you for visiting my profile! 😊</h2><br>
 
